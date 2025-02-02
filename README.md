@@ -2,7 +2,7 @@
 
 - Currently a QA Engineer Intern at the Ministry of Education, Ontario
 - BSc in Computer Science at the University of Toronto, St. George, expected to graduate in May 2026
-- Aspiring software developer and passionate about programming
+- Passionate about building scalable and efficient software solutions
 
 ## My Tech Stack
 
